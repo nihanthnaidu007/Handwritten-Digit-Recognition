@@ -1,0 +1,34 @@
+venv/
+.venv/
+env/
+ENV/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Generated outputs — large binaries, not source
+# Note: outputs/data is tracked with Git LFS (see .gitattributes)
+outputs/models/
+outputs/plots/
+outputs/logs/
+outputs/reports/
+outputs/tmp/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Local editor / tooling
+.vscode/
+.idea/
+
+# Environment and secrets
+.env
+.env.*
