@@ -720,7 +720,7 @@ python run.py --only 11
 | **Course** | AI 681 — Machine Learning |
 | **Semester** | Spring 2026 |
 | **Institution** | Long Island University, Brooklyn |
-| **Team** | Nihanth Naidu K, Likitha P, Shreya V |
+| **Team** | Nihanth Naidu K, Shreya V, Kavya|
 
 ---
 
